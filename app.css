@@ -1,0 +1,14 @@
+#game div {
+    border: 2px solid black;
+    width: 23%;
+    height: 24vh;
+    margin: .5vw;
+    display: inline-block;
+}
+
+body{
+    font-size: 3vh;
+    color: black;
+    text-align: center;
+    background-color: pink;
+}
